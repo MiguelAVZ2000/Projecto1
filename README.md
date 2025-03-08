@@ -34,17 +34,14 @@ Este proyecto analiza la satisfacción de los pasajeros de aerolíneas utilizand
 ## ⚡ Reproducir el Análisis
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
+   git clone 
    ```
 2. Instala las librerías necesarias:
    ```bash
    pip install pandas matplotlib seaborn
    ```
-3. Ejecuta el notebook `airlines_analysis.ipynb` en Jupyter Notebook o Google Colab.
+3. Ejecuta el notebook `Análisis_aerolíneas.ipynb` en Jupyter Notebook o Google Colab.
 
-## 🌟 Autor
-- **Nombre:** [Tu Nombre]
-- **Contacto:** [Tu email o LinkedIn]
 
 ## 📝 Licencia
 Este proyecto se distribuye bajo la licencia MIT.
