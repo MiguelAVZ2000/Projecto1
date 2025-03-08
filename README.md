@@ -4,7 +4,7 @@
 Este proyecto analiza la satisfacción de los pasajeros de aerolíneas utilizando un conjunto de datos real. Se exploran patrones en la insatisfacción del cliente y se identifican los factores clave que influyen en su experiencia.
 
 ## 📚 Dataset
-- **Nombre:** Airlines Customer Satisfaction
+- **Nombre:** airline_passenger_satisfaction
 - **Fuente:** Kaggle
 - **Características principales:**
   - Demografía de los pasajeros (edad, tipo de cliente, clase de viaje).
